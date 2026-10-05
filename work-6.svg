@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-label="Vídeo de ejemplo pendiente de sustituir: Estudio · portada">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#ECD6C6"/><stop offset="1" stop-color="#DBB39B"/>
+  </linearGradient></defs>
+  <rect width="1280" height="720" fill="url(#g)"/>
+  <g transform="translate(640,320)">
+    <circle r="68" fill="#B4572F" opacity="0.92"/>
+    <path d="M-20 -32 L38 0 L-20 32 Z" fill="#FBF7F0"/>
+  </g>
+  <g font-family="system-ui,sans-serif" text-anchor="middle" fill="#7A3B1E">
+    <text x="640" y="470" font-size="30" font-weight="700">[PENDIENTE] Estudio · portada</text>
+    <text x="640" y="512" font-size="22">Sustituye por el póster/vídeo real</text>
+  </g>
+</svg>

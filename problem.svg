@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 750" role="img" aria-label="Imagen de relleno pendiente de sustituir">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#EFE2D4"/><stop offset="1" stop-color="#E2C3AC"/></linearGradient></defs>
+  <rect width="1000" height="750" fill="url(#g)"/>
+  <g fill="#C06B41" opacity="0.85"><rect x="140" y="180" width="300" height="200" rx="10"/><rect x="560" y="300" width="300" height="200" rx="10"/><rect x="330" y="430" width="300" height="200" rx="10"/></g>
+  <g font-family="system-ui,sans-serif" text-anchor="middle" fill="#7A3B1E"><text x="500" y="700" font-size="30" font-weight="700">[PENDIENTE] foto o captura</text></g>
+</svg>

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sustituye por tu dominio real
+Sitemap: https://nidoostudio.es/sitemap.xml
